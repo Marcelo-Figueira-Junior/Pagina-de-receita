@@ -1,4 +1,4 @@
-<h1 align="center">🧁 Página de Receita</h1>
+<h1 align="center">🧁 Página de Receita | Recipe Page</h1>
 
 <p align="center">
 
@@ -9,27 +9,28 @@
 </p>
 
 <p align="center">
- <a href="#about">About</a> • 
- <a href="#layout">Layout</a> •
- <a href="#technologies">Technologies</a> • 
- <a href="#started">Getting Started</a> • 
- <a href="#colab">Author</a> •
- <a href="#contribute">Contribute</a>
-</p>
-
-<p align="center">
-    <b>Uma página web de receitas que apresenta ingredientes e modo de preparo de uma deliciosa receita de cupcake de café com chantilly.</b>
-</p>
-
-<p align="center">
-     <a href="https://github.com/Marcelo-Figueira-Junior/Pagina-de-receita">📱 Ver Projeto</a>
+🇧🇷 <a href="#pt-br">Português</a> | 🇺🇸 <a href="#en">English</a>
 </p>
 
 ---
 
-<h2 id="about">📖 About the Project</h2>
+# 🇧🇷 Português
 
-Este projeto é uma **página web simples de receita**, desenvolvida utilizando apenas **HTML e CSS**.
+<h2 id="pt-br"></h2>
+
+<p align="center">
+Uma página web de receitas que apresenta ingredientes e modo de preparo de uma deliciosa receita de cupcake de café com chantilly.
+</p>
+
+<p align="center">
+<a href="https://github.com/Marcelo-Figueira-Junior/Pagina-de-receita">📱 Ver Projeto</a>
+</p>
+
+---
+
+## 📖 Sobre o Projeto
+
+Este projeto é uma **página web de receita**, desenvolvida utilizando apenas **HTML e CSS**.
 
 A página apresenta:
 
@@ -37,43 +38,37 @@ A página apresenta:
 * 👨‍🍳 Modo de preparo detalhado
 * 🎨 Layout organizado e visual agradável
 
-O objetivo do projeto é **praticar estruturação de páginas HTML e estilização com CSS**, simulando uma página de receita culinária real.
+O objetivo do projeto é **praticar estruturação de páginas HTML e estilização com CSS**, simulando uma página de receita culinária.
 
 ---
 
-<h2 id="layout">🎨 Layout</h2>
+## 🎨 Layout
 
 <p align="center">
-    <img src="./assets/main-image.jpg" alt="Receita de cupcake de café com chantilly" width="500px">
+<img src="./assets/main-image.jpg" width="500px">
 </p>
 
 ---
 
-<h2 id="technologies">💻 Technologies</h2>
-
-As seguintes tecnologias foram utilizadas no projeto:
+## 💻 Tecnologias
 
 * HTML5
 * CSS3
 
 ---
 
-<h2 id="started">🚀 Getting Started</h2>
+## 🚀 Como executar o projeto
 
-Para rodar este projeto localmente é muito simples.
-
-<h3>Prerequisites</h3>
+### Pré-requisitos
 
 Você precisa apenas de:
 
-* Um navegador web (Chrome, Edge, Firefox, etc.)
-* Opcional: **VS Code + extensão Live Server**
+* Um navegador (Chrome, Edge, Firefox etc.)
+* Opcional: **VS Code + Live Server**
 
 ---
 
-<h3>Cloning</h3>
-
-Clone o repositório:
+### Clonar o projeto
 
 ```bash
 git clone https://github.com/Marcelo-Figueira-Junior/Pagina-de-receita.git
@@ -81,34 +76,33 @@ git clone https://github.com/Marcelo-Figueira-Junior/Pagina-de-receita.git
 
 ---
 
-<h3>Starting</h3>
+### Executar
 
-Entre na pasta do projeto:
+Entre na pasta:
 
 ```bash
 cd Pagina-de-receita
 ```
 
-Depois você pode:
+Depois:
 
-✔ Abrir o arquivo **index.html** diretamente no navegador
+* Abra **index.html** no navegador
 
 ou
 
-✔ Rodar com **Live Server** no VS Code
+* Use **Live Server**
 
 ---
 
-<h2 id="colab">👨‍💻 Author</h2>
+## 👨‍💻 Autor
 
 <table>
 <tr>
 <td align="center">
 <a href="https://github.com/Marcelo-Figueira-Junior">
-<img src="https://avatars.githubusercontent.com/Marcelo-Figueira-Junior" width="100px;" alt="Marcelo Figueira Junior"/><br>
-<sub>
-<b>Marcelo Figueira Junior</b>
-</sub>
+<img src="https://avatars.githubusercontent.com/Marcelo-Figueira-Junior" width="100px">
+<br>
+<sub><b>Marcelo Figueira Junior</b></sub>
 </a>
 </td>
 </tr>
@@ -116,30 +110,87 @@ ou
 
 ---
 
-<h2 id="contribute">📫 Contribute</h2>
+# 🇺🇸 English
 
-Contribuições são sempre bem-vindas!
+<h2 id="en"></h2>
 
-Se você quiser melhorar este projeto:
+<p align="center">
+A simple recipe web page that presents ingredients and preparation instructions for a delicious coffee cupcake with whipped cream.
+</p>
 
-1. Faça um fork do projeto
-2. Crie uma branch
-
-```bash
-git checkout -b feature/NOME-DA-FEATURE
-```
-
-3. Faça commit das mudanças
-4. Abra um **Pull Request**
+<p align="center">
+<a href="https://github.com/Marcelo-Figueira-Junior/Pagina-de-receita">📱 Visit Project</a>
+</p>
 
 ---
 
-<h3>Documentations that might help</h3>
+## 📖 About the Project
 
-[📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/ma)
+This project is a **recipe web page** built using only **HTML and CSS**.
 
-<h3>Documentations that might help</h3>
+The page includes:
 
-[📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
+* 📋 Ingredients list
+* 👨‍🍳 Step-by-step preparation instructions
+* 🎨 Clean and organized layout
 
-[💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+The goal of this project is to **practice HTML page structure and CSS styling**, simulating a real cooking recipe page.
+
+---
+
+## 🎨 Layout
+
+<p align="center">
+<img src="./assets/main-image.jpg" width="500px">
+</p>
+
+---
+
+## 💻 Technologies
+
+* HTML5
+* CSS3
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+You only need:
+
+* A web browser (Chrome, Edge, Firefox, etc.)
+* Optional: **VS Code + Live Server**
+
+---
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Marcelo-Figueira-Junior/Pagina-de-receita.git
+```
+
+---
+
+### Running the project
+
+Enter the project folder:
+
+```bash
+cd Pagina-de-receita
+```
+
+Then:
+
+* Open **index.html** in your browser
+
+or
+
+* Use **Live Server**
+
+---
+
+<p align="center">
+⭐ If you liked this project, consider giving it a star!
+</p>
+
